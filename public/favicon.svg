@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- WhatsApp Green Background with rounded corners -->
+  <rect width="64" height="64" rx="14" fill="#25D366"/>
+  
+  <!-- "A" for Ajit -->
+  <text x="32" y="47" font-family="sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">A</text>
+  
+  <!-- Subtle shine effect at the top for "App Icon" look -->
+  <path d="M4 14C4 8.477 8.477 4 14 4H50C55.523 4 60 8.477 60 14V32C60 32 40 20 4 32V14Z" fill="white" fill-opacity="0.1"/>
+</svg>
